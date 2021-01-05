@@ -1,15 +1,26 @@
+
 #header{
  background-color:antiquewhite;
  display: flex;
- width: 25%;
+ height: 100px;
 }
 
-#body{
+#main{
 background-color: aqua;
-width: 50%;
+min-height: 630px;
+background-image: url(./images/background_page.jpeg);
 }
 
 #footer{
-background-color: antiquewhite;
-width: 25%;
+background-color:blueviolet;
+height: 100px;
+}
+
+#icon{
+    flex: 1;
+    background-color: blue;
+}
+#menu{
+    flex:2;
+    background-color: blueviolet;
 }
