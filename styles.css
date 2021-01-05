@@ -1,0 +1,15 @@
+#header{
+ background-color:antiquewhite;
+ display: flex;
+ width: 25%;
+}
+
+#body{
+background-color: aqua;
+width: 50%;
+}
+
+#footer{
+background-color: antiquewhite;
+width: 25%;
+}
