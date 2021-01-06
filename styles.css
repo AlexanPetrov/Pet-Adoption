@@ -3,7 +3,7 @@ body{
 }
 #header{
  display: flex;
- height: 100px;
+ height: 101px;
 }
 #contener{
     text-align: center;
